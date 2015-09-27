@@ -1,5 +1,5 @@
 /**
- * Created by cuike on 15-9-27.
+ * Created by doctor  on 15-9-27.
  */
 
 function getString(){
