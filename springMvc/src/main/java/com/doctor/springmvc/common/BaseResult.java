@@ -4,6 +4,12 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 
+ * @author doctor
+ *
+ * @time 2015年9月27日
+ */
 public class BaseResult implements Serializable {
 
 	private static final long serialVersionUID = 1L;

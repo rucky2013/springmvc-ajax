@@ -20,3 +20,6 @@ catalina.home_IS_UNDEFINED/
 catalina.home_IS_UNDEFINED/ cd
 .directory
 .springBeans
+/target/
+/target/
+/target/

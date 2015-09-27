@@ -8,6 +8,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.doctor.springmvc.common.ModelResult;
 import com.doctor.springmvc.common.domain.UserInfo;
 
+/**
+ * 
+ * @author doctor
+ *
+ * @time 2015年9月27日 下午7:36:56
+ */
 @Controller
 public class SImpleController {
 
